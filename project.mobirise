@@ -44,7 +44,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "46px",
+              "font-size": "36px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "center"
@@ -244,10 +244,11 @@
           "_styles": {
             ".mbr-section-lead": {
               "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-size": "22px"
             },
             ".mbr-section-title": {
-              "font-size": "46px"
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-c",

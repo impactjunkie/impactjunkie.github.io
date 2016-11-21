@@ -423,7 +423,7 @@ h6,
 }
 #header5-0 .mbr-section-title {
   color: #ffffff;
-  font-size: 46px;
+  font-size: 36px;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
@@ -512,9 +512,10 @@ h6,
 }
 #header1-c .mbr-section-lead {
   font-family: 'Source Sans Pro', sans-serif;
+  font-size: 22px;
 }
 #header1-c .mbr-section-title {
-  font-size: 46px;
+  font-size: 36px;
 }
 #header5-b .mbr-section-title {
   color: #222222;
