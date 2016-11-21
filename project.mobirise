@@ -24,7 +24,9 @@
     "publishPath": "file:///Users/philip/code/impactjunkie/impactjunkie.github.io",
     "versionFirst": "3.9.2",
     "uniqCompNum": 16,
-    "versionPublish": "3.9.2"
+    "versionPublish": "3.9.2",
+    "favicon": "@PROJECT_PATH@/assets/images/impact-junkie-one-128x72-21.png",
+    "noImageResize": ""
   },
   "pages": {
     "index.html": {
@@ -42,7 +44,7 @@
           "_styles": {
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "60px",
+              "font-size": "46px",
               "font-family": "'Montserrat', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
               "text-align": "center"
@@ -179,7 +181,11 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "font-size": "36px"
+            },
+            ".mbr-section-title DIV": {
+              "font-size": "36px"
             }
           },
           "_anchor": "header1-2",
@@ -202,7 +208,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "Helping&nbsp;<div>entrepreneurs&nbsp;</div><div>reach their&nbsp;</div><div>higher purpose.</div>",
+          "title": "<div>Helping <br>entrepreneurs&nbsp;</div><div>reach their&nbsp;</div><div>higher purpose.</div>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
         },
@@ -239,6 +245,9 @@
             ".mbr-section-lead": {
               "font-family": "'Source Sans Pro', sans-serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700"
+            },
+            ".mbr-section-title": {
+              "font-size": "46px"
             }
           },
           "_anchor": "header1-c",
@@ -261,7 +270,7 @@
             "showText": true,
             "showButtons": true
           },
-          "title": "Use Your Superpowers for Good.",
+          "title": "Use Your <br>Superpowers <br>for Good.",
           "text": "<b>We help startups be heroic.<br></b>Once you experience the impact you can have in other lives, you'll never be the same. Build water wells in villages without fresh water, help homeless children find forever families, feed entire communities, extend your expertise by offering training. We help connect entrepreneurs to their higher purpose.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"index.html#form1-6\" data-toolbar=\"-mbrBtnMove\">BECOME AN IMPACT JUNKIE</a> "
         },

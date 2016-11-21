@@ -423,7 +423,7 @@ h6,
 }
 #header5-0 .mbr-section-title {
   color: #ffffff;
-  font-size: 60px;
+  font-size: 46px;
   font-family: 'Montserrat', sans-serif;
   text-align: center;
 }
@@ -497,6 +497,10 @@ h6,
 }
 #header1-2 .mbr-section-title {
   color: #ffffff;
+  font-size: 36px;
+}
+#header1-2 .mbr-section-title DIV {
+  font-size: 36px;
 }
 #header3-d .mbr-section-title,
 #header3-d .mbr-section-subtitle {
@@ -508,6 +512,9 @@ h6,
 }
 #header1-c .mbr-section-lead {
   font-family: 'Source Sans Pro', sans-serif;
+}
+#header1-c .mbr-section-title {
+  font-size: 46px;
 }
 #header5-b .mbr-section-title {
   color: #222222;
