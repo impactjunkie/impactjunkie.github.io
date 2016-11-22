@@ -596,8 +596,10 @@ h1, h2, h3, h4, h5, h6,
 .h1, .h2, .h3, .h4, .h5, .h6,
 .3, .display-2, .display-3, .display-4 {
   font-family: 'Montserrat', sans-serif;
-  <!-- word-break: break-word;-->
-  word-wrap: break-word;
+  word-break: normal;
+  word-wrap: normal;
+  <!-- word-break: break-word;
+  word-wrap: break-word;-->
 }
 
 input, textarea {
