@@ -45,8 +45,8 @@
             ".mbr-section-title": {
               "color": "#ffffff",
               "font-size": "60px",
-              "font-family": "'Source Sans Pro', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700",
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
               "text-align": "center"
             },
             ".mbr-section-lead": {
